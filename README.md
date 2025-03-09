@@ -1,5 +1,5 @@
 Instrucciones:
-  (se requiere una instalación de python 3.11, y un navegador Chromium o Gecko)
+  (se requiere una instalación de python 3.11, y un navegador Chromium o Firefox y hay que configurar esto en el main.py)
   - Clonar el respoitorio (descargar los archivos)
   - Rodar 0_install_requirements.cmd
   - Utilizar run.cmd
