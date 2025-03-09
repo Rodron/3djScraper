@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.3
+Requests==2.32.3
+selenium==4.29.0
+urllib3==2.3.0
+wayback-machine-archiver==1.9.1
